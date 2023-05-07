@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Heroe</string>
+    <string name="Description_1">Jetpack Hero</string>
+    <string name="Description_2">Understand the absolute truth</string>
+    <string name="Description_3">Mimic the light and night to blend in</string>
+    <string name="Description_4">harness the power of canary to develop bravery</string>
+    <string name="Description_5">Effortlessly glide in to save the day</string>
+    <string name="Description_6">Ability to shift to any form and energize</string>
+    <string name="Name_1">Nick The Night And Day</string>
+    <string name="Name_2">Reality Protector</string>
+    <string name="Name_3">Andre the Giant</string>
+    <string name="Name_4">Benjamin the Brave</string>
+    <string name="Name_5">Magnificent Maru</string>
+    <string name="Name_6">Dynamic Yasmine</string>
+</resources>
